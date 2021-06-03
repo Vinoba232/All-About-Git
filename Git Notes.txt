@@ -1,0 +1,6 @@
+Git
+Master is kind of main copy
+You can have any number of branches
+We (Collaborators) can make changes in branch 
+and then finally we can upload it to Master
+
