@@ -1,0 +1,15 @@
+To get the version and to check whether git is installed
+git --version
+
+To Configure git
+git config --global user.name" "
+
+Initialize empty git:
+git init
+
+
+
+Command Prompt:
+To go back from the current directory
+cd ..
+
